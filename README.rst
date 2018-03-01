@@ -6,8 +6,8 @@ Unitarizable Highest Weight Modules
 
 This package is a `SageMath <http://www.sagemath.org>`_ package that contains all unitarizable highest weight modules organized into cones as in [DES]_ and calculates their nilpotent cohomology using Enright formula [E]_.
 
-.. [DES] Davidson, Enright, Stanke: Differential operators and highest weight representations
-.. [E] Enright: Analogues of Kostant's u-cohomology formulas for unitary highest modules
+.. [DES] Davidson, Enright, Stanke: *Differential Operators and Highest Weight Representations*, Memoirs of the American Mathematical Society, 1991
+.. [E] Enright: *Analogues of Kostant's u-cohomology formulas for unitary highest modules*, Journal für die reine und angewandte Mathematik 392, 1988
 
 The full documentation for the package can be found at https://vit-tucek.github.io/uhw_modules/doc/html/
 
