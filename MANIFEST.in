@@ -1,0 +1,6 @@
+prune uhw_modules
+include VERSION
+include uhw_modules/*.py
+include uhw_modules/*.pyx
+include uhw_modules/*.pxd
+
